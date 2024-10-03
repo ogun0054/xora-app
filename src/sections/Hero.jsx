@@ -19,7 +19,7 @@ function Hero() {
               learn. and surprisingly powerful.
             </p>
             <LinkScroll to="feature" offset={-100} spy smooth>
-              <Button />
+              <Button icon="/images/zap.svg">Try it now</Button>
             </LinkScroll>
           </div>
         </div>
